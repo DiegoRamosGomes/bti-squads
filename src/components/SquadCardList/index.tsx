@@ -3,7 +3,8 @@ import { SquadCardItem } from "@/components/SquadCardItem";
 
 export const SquadCardList = async () => {
   
-  const response = await fetch('http://localhost:3000/api/squads')
+  const url = `${process.env.BASE_URL}/api/squads`
+  const response = await fetch(url)
   const squads: SquadModel[] = await response.json()
   
   return (
