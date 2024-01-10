@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "threadId":"1193959917074264254",
+    "name": "MTK Prod (Marketing Produto)",
+    "nickname": null,
+    "mentor": {
+      "name": "A. Cartola",
+      "userId": "348239640278597634",
+      "username": "a.cartolita"
+    },
+    "leader": {
+      "name": "Rannah M.",
+      "userId": "846842472830337092",
+      "username": "rannirah",
+      "assistants": []
+    },
+    "members": [
+      {
+        "name": "Vinicius",
+        "userId": "208210023656980480",
+        "username": "viniciusyoshizn"
+      },
+      {
+        "name": "Pedro Santos",
+        "userId": "1019010703836860477",
+        "username": "ps_joon"
+      },
+      {
+        "name": "Almada",
+        "userId": "762359226361446411",
+        "username": "brunoalmada"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "threadId": "1193967770824617994",
+    "name": "Front End A",
+    "nickname": null,
+    "mentor": {
+      "name": "Martins",
+      "userId": "469630492988145695",
+      "username": "martins_77"
+    },
+    "leader": {
+      "name": "CiceraRibeiro",
+      "userId": "889890733853667398",
+      "username": "cicribeiro",
+      "assistants": [
+        {
+          "name": "Ralf",
+          "userId": "266356466611388418",
+          "username": "shadow_ralf"
+        },
+        {
+          "name": "Luck",
+          "userId": "745424587910807674",
+          "username": "lucelho"
+        }
+      ]
+    },
+    "members": [
+      {
+        "name": "Brnuo Macedo",
+        "userId": "1176714413399605269",
+        "username": "brunomacedo_06185"
+      },
+      {
+        "name": "ryanSoares",
+        "userId": "999079923090194512",
+        "username": "jonao2"
+      },
+      {
+        "name": "vinicius!",
+        "userId": "409740847362473994",
+        "username": "viniciusbavosa"
+      },
+      {
+        "name": "saviomenezes",
+        "userId": "287391634822529024",
+        "username": "saviomenezes"
+      },
+      {
+        "name": "Danniel",
+        "userId": "159817819762982913",
+        "username": "_danniel"
+      },
+      {
+        "name": "Ca",
+        "userId": "255833728675217408",
+        "username": "Ca#3789"
+      },
+      {
+        "name": "Cleverson",
+        "userId": "937425059285434369",
+        "username": "cleverson461"
+      },
+      {
+        "name": "bia_trivillin",
+        "userId": "849770670950055997",
+        "username": "bia_trivillin"
+      },
+      {
+        "name": "Felipe Silva",
+        "userId": "403732312786993153",
+        "username": "ifelipesilva"
+      },
+      {
+        "name": "Reury",
+        "userId": "722099387194671215",
+        "username": "reuryc"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "threadId": "1193955153104076850",
+    "name": "Business Intelligence",
+    "nickname": "BI Squad (Business Intel)",
+    "mentor": {
+      "name": "Viniçoso",
+      "userId": "263830932484653083",
+      "username": "vini.go"
+    },
+    "leader": {
+      "name": "Gabriel Moura | Belligol",
+      "userId": "628604824551948328",
+      "username": "belligol_moura",
+      "assistants": []
+    },
+    "members": [
+      {
+        "name": "AnaFonseca",
+        "userId": "451052350292099072",
+        "username": "anaflei"
+      },
+      {
+        "name": "Nuno Benrós",
+        "userId": "761724249114411068",
+        "username": "nuno_benros"
+      },
+      {
+        "name": "ANG",
+        "userId": "282698807953588224",
+        "username": "ang9395"
+      },
+      {
+        "name": "Nathan.sql",
+        "userId": "837403719485358161",
+        "username": "nathan.sql"
+      },
+      {
+        "name": "kera",
+        "userId": "890625805783269456",
+        "username": "_tinyhero_"
+      },
+      {
+        "name": "Celu Brito",
+        "userId": "472789226061299743",
+        "username": "celu."
+      },
+      {
+        "name": "Herbert Droique",
+        "userId": "1176894428053504104",
+        "username": "herbertdroique"
+      }
+    ]
+  }
+]
