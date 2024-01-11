@@ -7,7 +7,10 @@ import Script from "next/script";
 const inter = Open_Sans({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Squads Bichinhos da TI',
+  title: {
+    template: '%s | Squads Bichinhos da TI',
+    default: 'Squads Bichinhos da TI'
+  },
   description: 'Projeto feito para mostrar quais os squads e seus respectivos membros',
 }
 
