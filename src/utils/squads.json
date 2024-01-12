@@ -166,5 +166,64 @@
         "username": "herbertdroique"
       }
     ]
+  },
+  {
+    "id": 4,
+    "threadId":"1193959249081028639",
+    "name": "Front End B",
+    "nickname": null,
+    "mentor": {
+      "name": "Marcos Aurelio - Sugar Dev",
+      "userId": "707298293725528196",
+      "username": "marcosaurelio0153"
+    },
+    "leader": {
+      "name": "DiegoR",
+      "userId": "265494809542656000",
+      "username": "diegor4348",
+      "assistants": []
+    },
+    "members": [
+      {
+        "name": "Pri - Red panda",
+        "userId": "1152403229632639126",
+        "username": "pritrevizan."
+      },
+      {
+        "name": "! Awesome",
+        "userId": "1068977099597172818",
+        "username": "vhs4.dev"
+      },
+      {
+        "name": "bioca_pirez",
+        "userId": "756098554103332874",
+        "username": "bioca_pirez#7279"
+      },
+      {
+        "name": "Ellen Dutra",
+        "userId": "546373277048766535",
+        "username": "ellendutra"
+      },
+      {
+        "name": "Kauã Fernandes",
+        "userId": "1188824034415218740",
+        "username": "355250."
+      },
+      {
+        "name": "Laura Alves",
+        "userId": "764298004525219872",
+        "username": "lauralvess"
+      },
+      {
+        "name": "Lucas Gomes",
+        "userId": "456594295462428692",
+        "username": "lucasdarkside"
+      },
+      {
+        "name": "Thiago Vieira",
+        "userId": "1040563055131627541",
+        "username": "thiagomartinsvieira"
+      }
+    ]
   }
 ]
